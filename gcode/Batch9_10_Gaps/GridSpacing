@@ -1,0 +1,9 @@
+2 wide == 2 mm per side of card == 6mm == | 2 | 2 | 2 |
+5 tall == 2mm per side of card == 12mm == | 2 | 2 | 2 | 2 | 2 | 2 |
+
+Width = 280 + 6 = 286mm
+Height = 350 + 12 = 362mm
+
+++ gaps between cards inside of pairs
+
+width == 286 + 2 + 2 = 290
