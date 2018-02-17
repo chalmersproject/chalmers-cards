@@ -11,3 +11,6 @@ width == 286 + 2 + 2 = 290
 power settings : 200 | 20 Etch
 			   : 10  | 80 Cut
 
+Bed Position on "Bo" == 145 x | 181 y
+
+Bo actual 0,0 origin is : 5mm x  | 12.7
