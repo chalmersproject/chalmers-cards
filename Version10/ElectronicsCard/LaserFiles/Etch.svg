@@ -28,6 +28,7 @@
      id="layer1"
      transform="translate(0,-751.1811)" />
   <g
+     style="display:inline"
      id="layer2"
      transform="translate(0,-407.48031)">
     <path
@@ -1951,6 +1952,11 @@
        d="m 171.17641,537.94868 a 12.175673,12.143508 0 0 1 -12.17568,12.14351 12.175673,12.143508 0 0 1 -12.17566,-12.14351 12.175673,12.143508 0 0 1 12.17566,-12.14351 12.175673,12.143508 0 0 1 12.17568,12.14351 z"
        style="fill:none;stroke:#000000;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
+       id="path14424"
+       d="m 534.66823,903.61643 32.32227,0 c 4.59162,0 8.28711,3.68209 8.28711,8.25586 l 0,81.77283 c 0,4.57377 -3.69549,8.25588 -8.28711,8.25588 l -32.32227,0 c -4.59162,0 -8.28711,-3.68211 -8.28711,-8.25588 l 0,-81.77283 c 0,-4.57377 3.69549,-8.25586 8.28711,-8.25586 z"
+       style="display:inline;opacity:0.4;fill:none;fill-opacity:0.2961877;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,-343.70079)" />
+    <path
        id="path16991"
        d="m 3.5119067,706.88981 a 1.7402532,1.7402532 0 0 1 -1.7402532,1.7402 1.7402532,1.7402532 0 0 1 -1.74025318,-1.7402 1.7402532,1.7402532 0 0 1 1.74025318,-1.7403 1.7402532,1.7402532 0 0 1 1.7402532,1.7403 z"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06280065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -1958,5 +1964,9 @@
        id="circle16993"
        d="m 761.77962,409.25197 a 1.7402532,1.7402532 0 0 1 -1.74025,1.74025 1.7402532,1.7402532 0 0 1 -1.74026,-1.74025 1.7402532,1.7402532 0 0 1 1.74026,-1.74025 1.7402532,1.7402532 0 0 1 1.74025,1.74025 z"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06280065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path8586"
+       d="M 65.096027,521.63342 A 26.390759,26.390759 0 0 1 38.705269,548.02418 26.390759,26.390759 0 0 1 12.31451,521.63342 26.390759,26.390759 0 0 1 38.705269,495.24266 26.390759,26.390759 0 0 1 65.096027,521.63342 Z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.36809066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
