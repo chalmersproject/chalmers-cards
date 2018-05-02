@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170mm"
+   height="100mm"
+   viewBox="0 0 602.3622 354.33071"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="MichelleCard.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#5e5e5e"
+     bordercolor="#919191"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75513907"
+     inkscape:cx="611.39789"
+     inkscape:cy="207.28793"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     units="mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-698.0315)">
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:600;font-stretch:normal;font-size:107.7899704px;line-height:125%;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Semi-Bold Oblique';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.750304"
+       y="872.13184"
+       id="text8065"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8067"
+         x="12.750304"
+         y="872.13184">Michelle Lee </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8069"
+       y="960.43744"
+       x="225.1908"
+       style="font-style:oblique;font-variant:normal;font-weight:600;font-stretch:normal;font-size:84.3815155px;line-height:125%;font-family:'Futura Std';-inkscape-font-specification:'Futura Std Semi-Bold Oblique';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="960.43744"
+         x="225.1908"
+         id="tspan8071"
+         sodipodi:role="line">SRE</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.433803;stroke:#ff0000;stroke-width:1.62283468;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8092"
+       width="600.73962"
+       height="352.70813"
+       x="0.81129068"
+       y="698.84277"
+       rx="63.674709"
+       ry="63.674709" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8094"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:rsfs10;font-style:italic;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'rsfs10, Italic';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion8096"><rect
+           id="rect8098"
+           width="1494.4829"
+           height="282.79062"
+           x="634.87433"
+           y="67.794525" /></flowRegion><flowPara
+         id="flowPara8100"></flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:0.433803;stroke:#ff0000;stroke-width:1.62283468;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8112"
+       width="124.48038"
+       height="72.834267"
+       x="38.403522"
+       y="935.82739"
+       rx="27.91968"
+       ry="27.91968" />
+  </g>
+</svg>
