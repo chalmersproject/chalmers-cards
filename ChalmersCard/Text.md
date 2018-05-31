@@ -55,8 +55,8 @@ The I.D. safe allows you to verify your identity to services without needing you
 
 ### Your ID is stored
 + physically secure
-+ confidentially -- information is provided *only* with your consent 
 + can still be used to verify your identity *while in storage*
++ confidentially -- information is provided *only* with your consent 
 
 Protocols are set up with service providers so clients do not have to show original identification documents
 If you don't already have a secure place to keep your I.D., Street Health will store it for you in their I.D. safe. 
