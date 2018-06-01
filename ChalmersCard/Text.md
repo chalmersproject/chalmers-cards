@@ -65,4 +65,4 @@ If you don't already have a secure place to keep your I.D., Street Health will s
 
 Phone line for referral to shelter.
 
-Wait times are very long in the afternoon - evening. Call in before noon to avoid wait times. 
+Wait times are very long in the afternoon-evening. Call in before noon to avoid wait times. 
