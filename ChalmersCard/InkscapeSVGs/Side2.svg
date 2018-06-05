@@ -24,7 +24,7 @@
      inkscape:window-width="1366"
      borderlayer="true"
      showgrid="false"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-units="mm"
      inkscape:cy="212.66449"
      inkscape:cx="-3.9792978"
@@ -54,6 +54,29 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="AlignmentGuides">
+    <g
+       style="opacity:0.475;display:inline"
+       id="g9547"
+       transform="translate(-5.2154069e-8,-4e-5)">
+      <circle
+         r="1.708099"
+         cy="246.25989"
+         cx="1.7716537"
+         id="path9541"
+         style="opacity:0.98000004;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.12710918;stroke-miterlimit:3.98765421;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         transform="scale(-1,1)"
+         style="opacity:0.98000004;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.12710918;stroke-miterlimit:3.98765421;stroke-dasharray:none;stroke-opacity:1"
+         id="circle9543"
+         cx="-246.25986"
+         cy="1.7716922"
+         r="1.708099" />
+    </g>
+  </g>
   <g
      inkscape:label="Cutout"
      inkscape:groupmode="layer"
@@ -161,7 +184,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path2799"
-       d="m 2.186099,184.61139 118.177361,0"
+       d="M 2.186099,184.61139 H 120.36346"
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
