@@ -66,3 +66,12 @@ If you don't already have a secure place to keep your I.D., Street Health will s
 Phone line for referral to shelter.
 
 Wait times are very long in the afternoon-evening. Call in before noon to avoid wait times. 
+
+
+# 211 Resources
+1. Food
+2. Clothing
+3. Healthcare
+4. Shelter
+5. Financial Aid
+6. ID clinics
