@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="569mm"
-   height="214mm"
+   width="22.401575in"
+   height="8.4251966in"
    viewBox="0 0 2016.1418 758.26771"
    id="svg2"
    version="1.1"
@@ -30,7 +30,8 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     units="in" />
   <defs
      id="defs4">
     <filter
@@ -684,5 +685,6 @@
      transform="scale(-1,1)"
      style="opacity:0.98000004;fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.08278596;stroke-miterlimit:3.98765421;stroke-dasharray:none;stroke-opacity:1"
      d="M -2015.6003,0.5413757 H -0.54138184 V 757.72631 H -2015.6003 Z"
-     id="rect10226" />
+     id="rect10226"
+     inkscape:connector-curvature="0" />
 </svg>
